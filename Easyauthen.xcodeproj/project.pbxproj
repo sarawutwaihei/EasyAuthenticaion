@@ -14,8 +14,8 @@
 		2FF95E661F28882A00B926B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2FF95E641F28882A00B926B6 /* LaunchScreen.storyboard */; };
 		2FF95E711F28882A00B926B6 /* EasyauthenTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF95E701F28882A00B926B6 /* EasyauthenTests.swift */; };
 		2FF95E7C1F28882A00B926B6 /* EasyauthenUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FF95E7B1F28882A00B926B6 /* EasyauthenUITests.swift */; };
-		2FF95E8A1F288BD000B926B6 /* logo_40pkru.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FF95E891F288BD000B926B6 /* logo_40pkru.png */; };
 		2FF95E8C1F289E7A00B926B6 /* REGDME.md in Sources */ = {isa = PBXBuildFile; fileRef = 2FF95E8B1F289E7A00B926B6 /* REGDME.md */; };
+		2FF95E8E1F289FF200B926B6 /* logo_40pkru.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FF95E8D1F289FF200B926B6 /* logo_40pkru.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,8 +49,8 @@
 		2FF95E771F28882A00B926B6 /* EasyauthenUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EasyauthenUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FF95E7B1F28882A00B926B6 /* EasyauthenUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EasyauthenUITests.swift; sourceTree = "<group>"; };
 		2FF95E7D1F28882A00B926B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2FF95E891F288BD000B926B6 /* logo_40pkru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_40pkru.png; path = ../../logo_40pkru.png; sourceTree = "<group>"; };
 		2FF95E8B1F289E7A00B926B6 /* REGDME.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = REGDME.md; sourceTree = "<group>"; };
+		2FF95E8D1F289FF200B926B6 /* logo_40pkru.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo_40pkru.png; path = ../../../logo_40pkru.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,7 +103,7 @@
 			isa = PBXGroup;
 			children = (
 				2FF95E5B1F28882A00B926B6 /* AppDelegate.swift */,
-				2FF95E891F288BD000B926B6 /* logo_40pkru.png */,
+				2FF95E8D1F289FF200B926B6 /* logo_40pkru.png */,
 				2FF95E5D1F28882A00B926B6 /* ViewController.swift */,
 				2FF95E5F1F28882A00B926B6 /* Main.storyboard */,
 				2FF95E621F28882A00B926B6 /* Assets.xcassets */,
@@ -238,7 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FF95E8A1F288BD000B926B6 /* logo_40pkru.png in Resources */,
+				2FF95E8E1F289FF200B926B6 /* logo_40pkru.png in Resources */,
 				2FF95E661F28882A00B926B6 /* LaunchScreen.storyboard in Resources */,
 				2FF95E631F28882A00B926B6 /* Assets.xcassets in Resources */,
 				2FF95E611F28882A00B926B6 /* Main.storyboard in Resources */,
